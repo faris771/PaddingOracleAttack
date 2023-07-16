@@ -15,5 +15,5 @@ Follow this link: https://seedsecuritylabs.org/labsetup.html
 
 
 # Contributors
-* [Hamza Awashraj](https://github.com/hawashra)
+* [Hamza Awashra](https://github.com/hawashra)
 * [Faris Abufarha](https://github.com/faris771)
